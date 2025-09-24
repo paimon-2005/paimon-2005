@@ -19,9 +19,11 @@ If you’re interested in tech or want to collaborate on a project, feel free t
 ![CSS](https://skillicons.dev/icons?i=css) 
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+
+🌐FRAMEWORKS
+
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-
 
 
 
