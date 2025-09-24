@@ -2,7 +2,8 @@
 ---
 💻 About Me
  ---
-I am Abhijit Mridha, currently pursuing my B.Tech in Computer Science and Engineering from TIEM Kolkata. I am in my 3rd year of college. I have skills in Java, Python, HTML, CSS, C programming, JavaScript, and Node.js. I work comfortably with tools like VS Code, Git, GitHub, and operating systems including Windows and Linux.
+I am Abhijit Mridha, currently pursuing my B.Tech in Computer Science and Engineering from TIEM Kolkata. I am in my 3rd year of college. I have skills in Java, Python, HTML, CSS, C programming, JavaScript, and Node.js. I work comfortably with tools like VS Code, Git, GitHub, and operating systems including Windows and Linux. currently I am learning mongoDB to enhance my backend development skills.
+
 
 I have a strong interest and solid knowledge in backend development, which is my core strength. Currently, I am learning frontend technologies to broaden my skills with the goal of becoming a full-stack developer. My personality is focused on effective time management, teamwork, and continuous learning. I am always curious, eager to improve, and adaptable to new situations. I enjoy debugging and finding creative solutions to build better user experiences.
 
