@@ -42,7 +42,7 @@ If you’re interested in tech or want to collaborate on a project, feel free t
  ---
 # 📊 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=paimon-2005&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=paimon-2005&color=8e44ad)
 
 ## ⚡ Paimon-2005's GitHub Stats
 
