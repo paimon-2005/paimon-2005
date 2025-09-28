@@ -38,8 +38,8 @@ If you’re interested in tech or want to collaborate on a project, feel free t
 
 # 🔗 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-mridha-11699a293/)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhijitMridha11)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhijit-mridha-11699a293/)  
+[![X (Twitter)](https://skillicons.dev/icons?i=twitter)](https://x.com/AbhijitMridha11)  
 
 
  ---
