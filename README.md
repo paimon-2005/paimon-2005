@@ -2,38 +2,76 @@
 ---
 💻 About Me
  ---
-I am Abhijit Mridha, currently pursuing my B.Tech in Computer Science and Engineering from TIEM Kolkata. I am in my 3rd year of college. I have skills in Java, Python, HTML, CSS, C programming, JavaScript, and Node.js. I work comfortably with tools like VS Code, Git, GitHub, and operating systems including Windows and Linux. currently I am learning mongoDB to enhance my backend development skills.
+I’m Abhijit Mridha, a third-year B.Tech student in Computer Science and Engineering at TIEM Kolkata. I have a strong inclination toward building reliable systems and solving real-world problems through structured thinking and clean logic. Backend development is where I feel most confident, and I’m currently expanding my perspective by exploring frontend concepts to move steadily toward becoming a full-stack developer.
 
-
-I have a strong interest and solid knowledge in backend development, which is my core strength. Currently, I am learning frontend technologies to broaden my skills with the goal of becoming a full-stack developer. My personality is focused on effective time management, teamwork, and continuous learning. I am always curious, eager to improve, and adaptable to new situations. I enjoy debugging and finding creative solutions to build better user experiences.
+I value discipline, time management, and teamwork, and I believe consistent learning is the key to growth in technology. I enjoy breaking down complex problems, debugging thoughtfully, and refining solutions to create smoother and more meaningful user experiences. Curious by nature and adaptable by mindset, I’m always looking for opportunities to learn, build, and improve.
 
 If you’re interested in tech or want to collaborate on a project, feel free to connect!
  ---
 ### 🚀TECH STACK  
  ---
- 👨‍💻LANGUAGES 
- 
-![C](https://skillicons.dev/icons?i=c) 
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css) 
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,java,javascript,typescript" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,vue,nextjs,vite,flutter" />
+
+</p>
+
+ ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+ ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter)
+
+### 🎨 Styling & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
-🌐FRAMEWORKS
+### 🌐 Graphics & Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+### 📊 Data & Python Ecosystem
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
+### 🗄️ Databases & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+</p>
 
-### 🛠️ Tools  
-![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![VSCode](https://skillicons.dev/icons?i=vscode) 
+### ☁️ Cloud & Hosting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,gcp," />
+</p>
 
----
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,windows" />
+</p>
+
+### 🎨 Design & Creative
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,canva" />
+</p>
 
 
 # 🔗 Let’s Connect  
@@ -49,7 +87,8 @@ If you’re interested in tech or want to collaborate on a project, feel free t
 
 ## ⚡ Paimon-2005's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paimon-2005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paimon-2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paimon-2005&theme=radical)
 
