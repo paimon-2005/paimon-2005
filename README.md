@@ -89,13 +89,11 @@ If you’re interested in tech or want to collaborate on a project, feel free t
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paimon-2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paimon-2005&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paimon-2005&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paimon-2005&layout=compact&theme=radical&langs_count=8&hide=html,css)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paimon-2005&theme=radical)
 
 ---
 
