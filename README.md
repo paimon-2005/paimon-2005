@@ -38,16 +38,6 @@ If you’re interested in tech or want to collaborate on a project, feel free t
   <img src="https://skillicons.dev/icons?i=threejs" />
 </p>
 
-### 📊 Data & Python Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-</p>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
 ### 🗄️ Databases & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
